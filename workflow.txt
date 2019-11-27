@@ -1,0 +1,31 @@
+
+
+
+Introduction to machine learning (Why do we need machine learning)
+
+Terminology 
+
+Apples and oranges problem: []
+    Problem 
+    ML Solution
+        1):
+            Data gathering (simple and static)
+            Choosing a clasifier
+            Classifiying
+            Prediction
+        2):
+            Using large datasets from file
+            SVM classifier
+            Prediction
+
+Petales and Sepals prooblem: []
+    Using iris database
+    
+    Problem of linearity
+
+    Problem of dimensiality (linear) PCA
+
+    Problem of dimensiality (non-linear) KPCA
+
+
+    

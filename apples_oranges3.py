@@ -16,7 +16,7 @@ def csv2y(path, split=False):
 features = csv2X('datasets/fruit_data_binaryX.csv')
 labels = csv2y('datasets/fruit_data_binaryY.csv')
 
-svclassifier = SVC(kernel='rbf', gamma='auto')
+# svclassifier = SVC(kernel='rbf', gamma='auto')
 svclassifier = SVC(kernel='linear')
 
 svclassifier.fit(features, labels)
